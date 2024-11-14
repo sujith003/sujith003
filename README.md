@@ -1,9 +1,6 @@
-Here's an updated GitHub README focusing on full-stack development:
+👋 Hi, I’m Sujith.E
 
-
----
-
-👋 Hi, I’m @sujith003
+😄 Pronouns: He/Him
 
 👀 I’m interested in full-stack development, Web development and Software Developer.
 
@@ -12,7 +9,5 @@ Here's an updated GitHub README focusing on full-stack development:
 💞️ I’m looking to collaborate on full-stack projects that solve real-world problems
 
 📫 How to reach me: sujithe2003@gmail.com
-
-😄 Pronouns: He/Him
 
 ⚡ Fun fact: When I'm not coding, I enjoy hiking and discovering new tech trends!
