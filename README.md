@@ -8,6 +8,6 @@
 
 💞️ I’m looking to collaborate on full-stack projects that solve real-world problems
 
-📫 How to reach me: sujithe2003@gmail.com
+📫 How to reach me: esujith1103@gmail.com
 
 ⚡ Fun fact: When I'm not coding, I enjoy hiking and discovering new tech trends!
